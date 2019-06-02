@@ -1,0 +1,20 @@
+2-5678
+2+2
+2(3+8-7)*2/4
+Make a matrix of 2x2
+what is a vector space ?
+What is MacLaurian Theorem ?
+Find zeros of x^2 + x + 1 ?
+What is Rank of a Matrix ?
+What is Nullity in Vector Space ?
+Find 2*(4/6)*6+9 ?
+What is BODMAS rule ?
+Write Table of 19 ?
+What is a Polynomial ?
+What is Formula of finding frequency of element in statistics ?
+Use Binomial and find (1+x)^6 ?
+Define Binomial Theorem ?
+What is orthogonal matrix ?
+What is Linear Span of Vector Space ?
+Find 6P2 ?
+What is Permutation & Combination ?
